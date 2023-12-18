@@ -5,6 +5,6 @@ public class test1 {
 
     private String user1;
 
-    private String user2;
+    private String user2; // 테스트
 
 }
