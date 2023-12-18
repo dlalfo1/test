@@ -7,6 +7,9 @@ public class test1 {
 
     private String user2; // 테스트 왜 안돼
 
-    private String user3 // 테스트 . . .
+    private String user3; // 테스트 . . .
+
+    private String user4; // 테스트 두번째
+    
 
 }
