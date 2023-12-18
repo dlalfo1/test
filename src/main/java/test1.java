@@ -5,6 +5,6 @@ public class test1 {
 
     private String user1;
 
-    private String user2; // 테스트
+    private String user2; // 테스트 왜 안돼
 
 }
