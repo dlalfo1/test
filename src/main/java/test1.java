@@ -7,4 +7,6 @@ public class test1 {
 
     private String user2; // 테스트 왜 안돼
 
+    private String user5; //ㅋ
+
 }
